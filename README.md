@@ -1,4 +1,4 @@
-![Screenshot 2025-04-25 170344](https://github.com/user-attachments/assets/d71cc1d3-2dcc-4f27-9f1e-883d432f30a2)# Bài tập 6: Hệ quản trị CSDL
+# Bài tập 6: Hệ quản trị CSDL
 ## Chủ đề: Câu lệnh Select
 ## Yêu cầu bài tập: 
 
